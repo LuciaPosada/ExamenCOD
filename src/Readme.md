@@ -13,3 +13,9 @@
    - Merge datos
 6) Checkout rama main
    - Merge squash final
+7) Craeda tag v1.0
+8) Creado archivo hola.txt (no me aparecian el .idea y el .iml)
+9) Añadido hola.txt al gitignore
+10) Realizado amend del tag
+11) Realizado push de la rama main y readme
+12) Release del v1.0
