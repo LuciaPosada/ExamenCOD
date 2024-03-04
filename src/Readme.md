@@ -5,6 +5,7 @@
    - creado archivo readme.md
 3) Checkout rama interface
    - revert al commit anterior
+     ()
 4) Creada rama final
 5) Checkout rama final
    - Merge interface 
